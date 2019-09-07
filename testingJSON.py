@@ -20,5 +20,5 @@ data['people'].append({
 })
 
 
-with open("test.json",'w') as files:
-    json.dump(data,files)
+with open("test.json", 'w') as files:
+    json.dump(data, files)
