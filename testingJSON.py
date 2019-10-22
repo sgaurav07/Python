@@ -1,5 +1,5 @@
+#storing Json 
 import json
-
 
 data = {'people': []}
 
